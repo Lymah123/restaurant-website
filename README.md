@@ -1,3 +1,4 @@
 # restaurant-website
 A simple restaurant website
-This is a work-in-progress work. I created the website with HTML, CSS, and JAVASCRIPT.
+The project is still ongoing, and as I keep making changes, I will be updating the repo. I created the website with HTML, CSS, and JavaScript.
+
